@@ -1,6 +1,6 @@
 # CatchWords
 
-Simple game for improve typing and have fun.
+Simple game for improve typing and have a fun.
 
 ## Gif
 
