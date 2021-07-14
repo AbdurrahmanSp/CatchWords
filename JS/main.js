@@ -78,7 +78,7 @@
                     $(el).addClass('danger')
                 }
             })
-        }, 100)
+        }, 20)
 
         function clearAllIntervals() {
             clearInterval(moveAll);
