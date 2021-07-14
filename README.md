@@ -11,7 +11,7 @@ Simple game for improve typing and have a fun.
 ### Concept
 
 **Coming soon updates:**
-- Cahnge theme
+- Cahnge theme colors
 - More speed and words levels
 - More animations, etc.
 
