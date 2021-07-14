@@ -10,7 +10,7 @@ Simple game for improve typing and have fun.
 
 ### Concept
 
-**Coming soon update ideas like:**
+**Coming soon updates:**
 - Cahnge theme
 - More speed and words levels
 - More animations, etc.
